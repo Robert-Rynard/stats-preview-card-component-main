@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/solution-desktop.jpg)
-![](./images/solution-mobile.jpg)
+![](/images/solution-desktop.jpg)
+![](/images/solution-mobile.jpg)
 
 ### Links
 
